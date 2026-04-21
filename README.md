@@ -62,3 +62,11 @@ Create a system where privacy and accessibility coexist — enabling safe reconn
 ---
 
 *Project started: April 2026*
+
+## 🧠 Personal Note
+
+This idea came from a real frustration I experienced: missing important calls from masked numbers with no way to reconnect.
+
+ARC started as a simple thought — “there should be a way to call back without breaking privacy” — and evolved into a concept I’m now exploring step by step.
+
+This project reflects my interest in building practical, human-centered solutions in cybersecurity and IT.
