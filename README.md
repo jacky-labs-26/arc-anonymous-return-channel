@@ -1,72 +1,47 @@
 # ARC — Anonymous Return Channel
 
-## 💡 Concept
+## Concept
+ARC is a privacy-preserving concept designed to solve a simple but real problem:
 
-ARC (Anonymous Return Channel) is a privacy-preserving concept designed to solve a common real-life frustration:
+Missing calls from masked/private numbers with no safe way to call back.
 
-Missed calls from masked/private numbers with no way to safely reconnect.
-
-The idea introduces:
+## The idea
+ARC introduces:
 - a one-time return channel
 - no exposure of the caller’s number
-- a secure and controlled reconnection window
+- a controlled and secure reconnection window
 
----
+## Problem
+Today, when you receive a call from a private number:
+- you can’t call back
+- you might miss something important
+- there is no safe reconnection mechanism
 
-## 🎯 Goal
+ARC explores a way to bridge that gap without compromising anonymity.
 
-Bridge accessibility and privacy by enabling users to reconnect without compromising anonymity.
+## Principles
+- privacy-first design
+- no identity exposure
+- controlled access
+- secure and ethical communication
 
----
+## Current stage
+- concept definition
+- initial documentation
+- exploring prototype logic
 
-## 🧩 Problem
+## Next steps
+- define the functional flow (token-based return channel)
+- build a simple Python prototype
+- explore telecom / OS-level feasibility
 
-Today, when receiving a call from a masked/private number:
-- you cannot call back
-- you may miss important opportunities
-- there is no secure way to reconnect
+## Vision
+Enable reconnection without compromising privacy.
 
-ARC aims to solve this gap.
+## Personal note
+This idea comes from a real frustration I experienced.
 
----
+ARC started as a simple thought:
+“there should be a way to call back without breaking privacy”
 
-## 🛡️ Core Principles
-
-- Privacy-first design  
-- No identity exposure  
-- One-time controlled access  
-- Ethical and secure communication  
-
----
-
-## 🧪 Current Stage
-
-- Concept definition  
-- Initial documentation  
-- Exploration of prototype logic  
-
----
-
-## 🚀 Next Steps
-
-- Define functional flow (token-based return channel)  
-- Build a simple Python prototype  
-- Explore feasibility with telecom / OS-level integration  
-
----
-
-## 🌍 Vision
-
-Create a system where privacy and accessibility coexist — enabling safe reconnection without compromising user identity.
-
----
-
-*Project started: April 2026*
-
-## 🧠 Personal Note
-
-This idea came from a real frustration I experienced: missing important calls from masked numbers with no way to reconnect.
-
-ARC started as a simple thought — “there should be a way to call back without breaking privacy” — and evolved into a concept I’m now exploring step by step.
-
-This project reflects my interest in building practical, human-centered solutions in cybersecurity and IT.
+Now I’m exploring it step by step as a personal project in cybersecurity and practical system design.
