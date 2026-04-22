@@ -19,6 +19,14 @@ Today, when you receive a call from a private number:
 
 ARC explores a way to bridge that gap without compromising anonymity.
 
+## Functional flow (v0.1)
+1. User misses a private call
+2. System generates a temporary token
+3. Token is stored with a time limit
+4. User uses token to request callback
+5. System validates token
+6. Connection is allowed without exposing identity
+
 ## Principles
 - privacy-first design
 - no identity exposure
