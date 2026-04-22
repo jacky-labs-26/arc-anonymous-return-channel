@@ -3,7 +3,7 @@
 ## Concept
 ARC is a privacy-preserving concept designed to solve a simple but real problem:
 
-Missing calls from masked/private numbers with no safe way to call back.
+Missed calls from masked/private numbers with no safe way to call back.
 
 ## The idea
 ARC introduces:
