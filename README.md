@@ -1,5 +1,14 @@
 # ARC — Anonymous Return Channel
 
+## Logo concept
+
+● ((( ARC ))) ●
+
+- 🔴 Outer arc: outside world / unknown signal
+- 🟨 Middle arc: validation / temporary token
+- 🟩 Inner arc: trusted connection
+- ⚫ Black endpoints + ARC text: two users connected through a secure channel
+
 ## Concept
 ARC is a privacy-preserving concept designed to solve a simple but real problem:
 
