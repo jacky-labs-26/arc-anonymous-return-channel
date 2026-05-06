@@ -4,7 +4,7 @@
 
 ● ((( ARC ))) ●
 
-- 🔴 Outer arc: outside world / unknown signal
+- 🟥 Outer arc: outside world / unknown signal
 - 🟨 Middle arc: validation / temporary token
 - 🟩 Inner arc: trusted connection
 - ⚫ Black endpoints + ARC text: two users connected through a secure channel
