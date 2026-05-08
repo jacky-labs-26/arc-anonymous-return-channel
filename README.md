@@ -56,12 +56,10 @@ ARC explores a way to bridge that gap without compromising anonymity.
 
 Future versions of ARC could explore privacy-preserving context indicators without revealing the caller’s identity:
 
-- Verified public service indicator
 - Government / public institution category
 - Healthcare-related category
 - Commercial or marketing likelihood
 - Spam / scam risk estimation
-- Anonymous caller validation through temporary tokens
 
 The goal would not be to expose who is calling but to help the receiver understand whether the missed private call may be legitimate, important or suspicious.
 
