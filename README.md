@@ -63,7 +63,7 @@ Future versions of ARC could explore privacy-preserving context indicators witho
 - Spam / scam risk estimation
 - Anonymous caller validation through temporary tokens
 
-The goal would not be to expose who is calling but to help the receiver understand whether the missed private call may be legitimate, important, or suspicious.
+The goal would not be to expose who is calling but to help the receiver understand whether the missed private call may be legitimate, important or suspicious.
 
 ## Vision
 Enable reconnection without compromising privacy.
