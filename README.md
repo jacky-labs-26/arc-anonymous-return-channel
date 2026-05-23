@@ -9,6 +9,8 @@
 * 🟩 Inner arc: trusted connection
 * ⚫ Black endpoints + ARC text: two users connected through a secure channel
 
+* > *Connecting the impossible... one token at a time*
+
 ## Concept
 
 ARC is a privacy-preserving concept designed to solve a simple but real problem:
