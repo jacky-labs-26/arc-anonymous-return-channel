@@ -4,10 +4,6 @@
 
 ![ARC Logo](ARC_logo_2026.PNG)
 
-● ((( ARC ))) ●
-
-> *Connecting the impossible... one token at a time*
-
 ## Concept
 
 ARC is a privacy-preserving concept designed to solve a simple but real problem:
