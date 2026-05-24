@@ -1,8 +1,7 @@
 # ARC — Anonymous Return Channel
 
 ## Logo concept
-
-![ARC Logo](assets/ARC_logo_2026.PNG)
+! [ARC Logo] (assets/ARC_logo_2026.PNG)
 
 ● ((( ARC ))) ●
 
