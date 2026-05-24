@@ -2,7 +2,7 @@
 
 ## Logo concept
 
-![ARC Logo](assets/ARC_logo_2026.PNG)
+![ARC Logo](ARC_logo_2026.PNG)
 
 ● ((( ARC ))) ●
 
