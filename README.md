@@ -2,7 +2,7 @@
 
 ## Logo concept
 
-![ARC Logo] (assets/ARC_logo_2026.PNG)
+![ARC Logo](assets/ARC_logo_2026.PNG)
 
 ● ((( ARC ))) ●
 
@@ -11,7 +11,7 @@
 * 🟩 Inner arc: trusted connection
 * ⚫ Black endpoints + ARC text: two users connected through a secure channel
 
-* > *Connecting the impossible... one token at a time*
+> *Connecting the impossible... one token at a time*
 
 ## Concept
 
