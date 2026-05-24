@@ -40,7 +40,7 @@ ARC explores a way to bridge that gap without compromising anonymity.
 Several mechanisms exist for missed calls — none solve this specific problem:
 
 * **Voicemail** — one-way only. The caller must choose to leave a message. If they don't, no reconnection is possible.
-* **Callback / *69** — blocked by design on private and masked numbers. The system intentionally prevents reverse lookup.
+* **Callback / reverse call** — blocked by design on private and masked numbers. The system intentionally prevents reverse lookup.
 * **Institutions and security-sensitive callers** (e.g. government agencies, intelligence services) — operate strict one-way communication policies. They will not leave voicemails, cannot accept callbacks and have no mechanism to re-initiate contact if the call is missed. The gap is by design on their end too.
 * **Existing callback apps** — rely on knowing or partially identifying the number. Private numbers bypass them entirely.
 
