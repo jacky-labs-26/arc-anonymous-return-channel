@@ -82,6 +82,21 @@ The goal would not be to expose who is calling but to help the receiver understa
 
 Enable reconnection without compromising privacy.
 
+## Philosophy
+
+Privacy is not a privilege. It is a right.
+
+ARC is built on one belief: you should be able to reconnect with someone
+without either party having to give up who they are to do it.
+
+Privacy and fairness are built into the system from the start.
+Not added as an afterthought.
+
+Security and trust are not opposites.
+They are the foundation of any real connection.
+
+Ethical by design. Private by default.
+
 ## Personal note
 
 This idea comes from a real frustration I experienced.
