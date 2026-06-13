@@ -1,4 +1,4 @@
-# ARC — Anonymous Return Channel
+# ARC | Anonymous Return Channel
 
 ## Logo concept
 
