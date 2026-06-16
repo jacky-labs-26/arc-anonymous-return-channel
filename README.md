@@ -2,7 +2,9 @@
 
 ## Logo concept
 
-<img src="ARC_logo_2026.PNG" width="300" alt="ARC Logo"/>
+<p align="center">
+  <img src="ARC_logo_2026.PNG" alt="ARC Logo" width="300"/>
+</p>
 
 ## Concept
 
