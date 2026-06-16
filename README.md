@@ -2,7 +2,7 @@
 
 ## Logo concept
 
-![ARC Logo](ARC_logo_2026.PNG)
+<img src="ARC_logo_2026.PNG" width="300" alt="ARC Logo"/>
 
 ## Concept
 
