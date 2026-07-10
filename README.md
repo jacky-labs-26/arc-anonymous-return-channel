@@ -118,4 +118,4 @@ problems become tools:
 - [Kinga](https://github.com/jacky-labs-26/kinga-ethical-blocker) | smart blocker for unsolicited calls
 - [J'Fokus](https://github.com/jacky-labs-26/j-fokus) | sustainable automated focus timer
 - [i-SAFE](https://github.com/jacky-labs-26/i-safe) | universal, accessible backup
-- [Red Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
+- [RED Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
