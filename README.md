@@ -107,3 +107,16 @@ ARC started as a simple thought:
 "there should be a way to call back without breaking privacy"
 
 Now I'm exploring it step by step as a personal project in cybersecurity and practical system design.
+
+---
+
+## About JLabs
+
+i-SAFE is part of **JLabs (j-labo)** — my personal lab where real-life 
+problems become tools:
+
+- [ARC](https://github.com/jacky-labs-26/arc-anonymous-return-channel) | anonymous callback channel for masked numbers
+- [Kinga](https://github.com/jacky-labs-26/kinga-ethical-blocker) | smart blocker for unsolicited calls
+- [J'Fokus](https://github.com/jacky-labs-26/j-fokus) | sustainable automated focus timer
+- [i-SAFE](https://github.com/jacky-labs-26/i-safe) | universal, accessible backup
+- [Red Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
